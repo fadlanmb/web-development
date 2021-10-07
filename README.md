@@ -1,2 +1,2 @@
 # web-development
-Web Develpoment fadlan
+Web Development fadlan
